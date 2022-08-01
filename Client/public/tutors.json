@@ -1,0 +1,32 @@
+[
+    {
+        "name" : "Rosa SH",
+        "picture" : "./images/RosaSH.png",
+        "description" : "I  have been a facilitator for over forty years. We can discuss various subjects that interest you: patience and clearly spoken words.",
+        "rating":"5.0",
+        "from": "Racine, USA",
+        "experience": "",
+        "subject": "fluent speaking",
+        "certificates": "Teaching certificate, 100+ chats"
+    },
+    {
+        "name" : "Maddie S",
+        "picture" : "./images/MaddieS.jpg",
+        "description" : "Learning is a lifelong process and I want to help you along the way! I love to talk about a variety of topics including books and nature!",
+        "rating":"4.7",
+        "from": "Vermont, USA",
+        "experience": "",
+        "subject": "english writing",
+        "certificates": "Teaching certificate"
+    },
+    {
+        "name" : "Deborah Lea",
+        "picture" : "./images/DeborahLea.png",
+        "description" : "I am an English teacher and have experience in many areas. I am good at adjusting to the needs of the student.",
+        "rating":"4.9",
+        "from": "Dallas Texas USA",
+        "experience": "",
+        "subject": "english grammer",
+        "certificates": ""
+    }
+]
